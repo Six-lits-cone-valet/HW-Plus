@@ -34,4 +34,3 @@ Une fois que vous avez fait vos modifications, vous pouvez les "commit" et les "
     ```bash
         git checkout -b branch-name
     ```
-
