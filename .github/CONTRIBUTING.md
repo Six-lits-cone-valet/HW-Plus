@@ -34,3 +34,17 @@ Une fois que vous avez fait vos modifications, vous pouvez les "commit" et les "
     ```bash
         git checkout -b branch-name
     ```
+
+2. Committez vos modifications avec un message descriptif.
+
+    ```bash
+    git commit -m "Description of changes"
+    ```
+
+3. Poussez vos modifications sur GitHub.
+
+    ```bash
+    git push origin branch-name
+    ```
+
+4. Allez sur la page de votre fork sur GitHub, et cliquez sur 'New Pull Request' pour soumettre vos modifications à l'examen.
