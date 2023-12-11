@@ -35,4 +35,3 @@ Une fois que vous avez fait vos modifications, vous pouvez les "commit" et les "
         git checkout -b branch-name
     ```
 
-[Contribution guidelines](./CONTRIBUTING.md)

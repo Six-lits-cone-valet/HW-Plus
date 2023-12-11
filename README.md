@@ -7,3 +7,4 @@ Hello Work Plus vous permet de sauvegarder vos candidature pour ensuite pouvoir 
 dans les résultats de rechercehe.
 
 
+[Contribution guidelines](./CONTRIBUTING.md)
