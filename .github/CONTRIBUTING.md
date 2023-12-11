@@ -9,7 +9,7 @@ Nous sommes ravis que vous envisagiez de contribuer à notre projet. Votre aide 
 La première étape pour contribuer à ce projet est de le "forker". C'est un moyen de créer votre propre copie du projet sur laquelle vous pouvez travailler.
 
 1. Sur la page du dépôt, cliquez sur le bouton 'Fork' en haut à droite. Cela créera une copie du dépôt dans votre compte GitHub.
-2. Clonez le dépôt forker sur votre machine locale en utilisant `git clone`. Remplacez `your-username` par votre nom d'utilisateur GitHub et `repo-name` par le nom du dépôt.
+2. Clonez le dépôt forké sur votre machine locale en utilisant `git clone`. Remplacez `your-username` par votre nom d'utilisateur GitHub et `repo-name` par le nom du dépôt.
 
     ```bash
         git clone https://github.com/your-username/repo-name.git
