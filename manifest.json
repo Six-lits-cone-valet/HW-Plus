@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Hello Work Tool",
-    "description": "Mark the jobs you already applied to on Hello Work.",
-    "version": "1.0",
+    "name": "Hello Work vert-ificateur",
+    "description": "Identifiez facilement vos candidatures dans les résultats de recherche.",
+    "version": "1.1.2",
     "action": {
         "default_popup": "popup.html",
         "default_icon": "images/icon-active.png"
